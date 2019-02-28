@@ -1,4 +1,4 @@
-#Reopening inactive repository
+## Reopening inactive repository
 
 This is a repository that is based on the dnsjava svn repository. However the original
 project is inactive and this repository allows patches to be openly available.
